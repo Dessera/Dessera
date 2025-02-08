@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<script>
+document.addEventListener("load", (event) => {
+   let x = document.body.innerHTML;
+   document.getElementById("aaa").innerHTML =  "Display the body content:<br>" + x;
+});
+</script>
+
+<div id="aaa"> ppppp </div>
+
 <!--
 **Dessera/Dessera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
