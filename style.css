@@ -1,3 +1,24 @@
-.test {
-  color: red;
+#statistics {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#repos {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#statistics>div,
+#repos>div {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#repos>div {
+  align-items: center;
 }
