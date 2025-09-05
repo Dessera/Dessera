@@ -1,22 +1,19 @@
-## Hi there 👋
+## Dessera's Github Profile 👋
 
-<!--
-**Dessera/Dessera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dessera, specializing in modern C/C++ development, I have a passion for GUI program development and Linux system programming, and enjoy learning more about modern programming languages.
 
-Here are some ideas to get you started:
+### Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Commits/PRs:
 
-THIS PAGE IS FOR TEST ONLY.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dessera)
 
-<iframe src="https://cn.bing.com">
-  
-</iframe>
+Top languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dessera)
+
+### Recent activities
+
+![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=Dessera)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dessera&repo=OrdOS)](https://github.com/Dessera/OrdOS) -->
