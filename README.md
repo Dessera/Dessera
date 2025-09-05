@@ -1,6 +1,12 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
 ## Dessera's Github Profile 👋
 
-I'm Dessera, specializing in modern C/C++ development, I have a passion for GUI program development and Linux system programming, and enjoy learning more about modern programming languages.
+<div class="test">
+  I'm Dessera, specializing in modern C/C++ development, I have a passion for GUI program development and Linux system programming, and enjoy learning more about modern programming languages.
+</div>
 
 ### Statistics
 
