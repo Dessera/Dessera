@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-
 # Hey There! 👋
 
 I'm Dessera, specializing in modern C/C++ development, I have a passion for GUI program development and Linux system programming, and enjoy learning more about modern programming languages.
@@ -20,27 +16,31 @@ I'm Dessera, specializing in modern C/C++ development, I have a passion for GUI 
 
 ## Statistics 📊
 
-<div id="statistics">
-  <div>
-    <h3>Commits/PRs</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Dessera" alt="Stats" />
-  </div>
-  <div>
-    <h3>Top Langs</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dessera&layout=compact&hide_border=true&langs_count=8" alt="Top Langs" />
-  </div>
-</div>
+### Commits/PRs
 
-<h2>Repos 📦</h2>
+![My Stats](https://github-readme-stats.vercel.app/api?username=Dessera)
 
-<div id="repos">
-  <div>
-    <a href="https://github.com/Dessera/OrdOS">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dessera&repo=OrdOS" alt="OrdOS" />
-    </a>
-    <p>OrdOS is a tiny x86 kernel which implements many <strong>modern</strong> ideas, including static modules, buddy system, simple slab allocator, etc.</p>
-  </div>
-</div>
+### Top Langs
+
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dessera&layout=compact&hide_border=true&langs_count=8)
+
+## Repos 📦
+
+- [WIP] OrdOS is a tiny x86 kernel which implements many **modern** ideas, including static modules, buddy system, simple slab allocator, etc.
+
+  [![OrdOS](https://github-readme-stats.vercel.app/api/pin/?username=Dessera&repo=OrdOS)](https://github.com/Dessera/OrdOS)
+
+- Tcalc is a simple computational programming language, which supports basic arithmetic operations, variables, and functions.
+
+  [![Tcalc](https://github-readme-stats.vercel.app/api/pin/?username=Dessera&repo=tcalc)](https://github.com/Dessera/tcalc)
+
+- [WIP] Temail is an email client written in Qt6.
+
+  [![Temail](https://github-readme-stats.vercel.app/api/pin/?username=Dessera&repo=temail)](https://github.com/Dessera/temail)
+
+- SSDUI is a GUI framework for embedded platform.
+
+  [![SSDUI](https://github-readme-stats.vercel.app/api/pin/?username=Dessera&repo=SSDUI)](https://github.com/Dessera/SSDUI)
 
 ## Recent activities
 
