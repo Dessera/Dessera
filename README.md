@@ -44,4 +44,4 @@ I'm Dessera, specializing in modern C/C++ development, I have a passion for GUI 
 
 ## Recent activities
 
-![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=Dessera)
+![Github Activity](profile-3d-contrib/profile-green.svg)
