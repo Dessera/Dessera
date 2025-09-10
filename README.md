@@ -9,6 +9,14 @@ I'm Dessera, specializing in modern C/C++ development, I have a passion for GUI 
 [![My Favorite Language](https://img.shields.io/badge/lang-rust-red?logo=Rust)](https://www.rust-lang.org)
 [![My Favorite Shell](https://img.shields.io/badge/shell-fish-green?logo=fish+shell)](https://www.rust-lang.org)
 
+## Learning List 🌱
+
+- Csharp
+- Qt Meta Object
+- Arch (`x86`/`arm`/`riscv`)
+- Review Modern C/C++
+- Linux Kernel
+
 ## Blogs 📖
 
 - Github Page: [https://dessera.github.io](https://dessera.github.io)
@@ -45,3 +53,4 @@ I'm Dessera, specializing in modern C/C++ development, I have a passion for GUI 
 ## Recent activities
 
 ![Github Activity](profile-3d-contrib/profile-green.svg)
+
